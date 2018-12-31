@@ -1,0 +1,83 @@
+															Feature Of Python
+															-----------------
+
+1. Simple and Sasy to learn  =>
+								python is very easy to learn and are very easy to use and it use very simple syntex and use normal english words which make it more easy for programmer to learn and to implement.
+
+2. Free Ware and Open Source => 
+								 python is free to use it we do not have to pay any type of cost and is open source means if we want to see the source code of python so very easyly we can see the python source code.
+
+3. high level language => 
+							python is a high level programming language means it use human understandable words 
+
+4. plateform independent => 
+							 python is a plateform independent language means what ever the code we are useing to code and to run in any os(plateform) this code can easely be run we don't have to aware about to take the code
+
+5. Extenive laybrary => 
+						python provie us a big lybrary so we dont have to make all things python give us a huge laybrary to do certain take so what we have to take? .... we have to import in our code and we have to use it.
+
+6. Extensable => 
+				 we can use python code in any other language. we can do it in approximately all the lang we can write the python code very easely.
+
+7. Embedded =>  
+				we can also code of other language in the python we do not have to convert into the python we can embedded into the python.
+
+8. portability => 
+					python is portable language now every one are confused that wnat does the mean of potability we can undertand by this example A sim no. which can be port to any company like that sim_no.=python_programm , and company=machine so can run it in any machine if any plateform we occure anytype of issue. and remember that porability and plateform independet both are different to each other.
+
+9. Daynamically typed language => 
+								  we should know that python is Daynamically typed lanuage so like while declareing the variable we dont not have to take attentation to declare the type of any variable it will automatically at the run time 
+
+								  for example =>	
+								  					>>> a=12
+								  					>>>a
+								  					12 
+								  					>>>type(a)
+								  					<Class int>
+								  					>>>a=true
+								  					>>>a
+								  					Bool
+								  					>>>type(a)
+								  					<Class Bool>
+
+
+								  	in python we also assign the value to any type
+
+10.  oop and pop => 
+	     			python is both type of language but should also known that python is not 100% oopl 
+					it also support scripting and moduler type of language.
+
+11. interpreted => 
+					python is interpreted language it is a tpye of compiler but in the flavor of python pypy it has also support pvm(python virtual machine) it has also jit which are used to increase the performance of python 
+
+
+===================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++===================================================================================================================================			 
+												limitation of python
+												--------------------
+
+1.  performance => 
+					if we are using the python language so we have to compromise with performance or with speed. python is solo as compaired to c lang and cpp lang.
+
+2.  Mobile application =>
+							python is every ware except mobile application by using python we can not make mobile application at future python may be come but at present not.
+
+
+===================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++===================================================================================================================================												
+										various type of application in the field
+										----------------------------------------
+
+1. system based application 
+2. web based application 
+3. ai based applicaion 
+4. iot bsased application 
+5. gameing
+ and so more such area python are use very well
+
+
+ but but but by using python we can not make the standard based application.
+
+
+
+ 										

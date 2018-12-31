@@ -1,0 +1,106 @@
+															python first lacture
+															--------------------
+
+								
+															1.  Installation 
+																------------
+
+
+There are some tips for python installation.
+Step1.
+		in the step one first go to the website wwww.python.org
+
+Step2.	
+		Then go to the download and go to the windows choose according to your computer/windows either 64 bits or 64*84 bits and download it.
+
+Step3.		
+		Then go to the file system of download path and double tape to the python exe and click to the installation process and do it the it will automatically complete the finish it 
+
+		important thing is that we do not have to give the path explicitly like java python automatically do it and it provide python idle and python cmd  both are same and both work same there is no difference in them as a working except one or two things python provide us idle we can use it as either notepad or python scropting type that is line by line but in notepad type we can execute our hole programm at a time
+
+python provide us 	REPL(Read Evoluate print loop)
+
+>>>a=12      #read and eveluate
+>>>a
+12				#print 
+>>>a
+12				# here loop stands for we can do it unlimiter time 
+>>>
+
+
+															2. History_Of_Python
+															   -----------------
+
+python was developed by Gudo Van Rossum in 1989. and he developed at NRI(national research institute) at nitherland
+python was origionaly came or was open source in the year of 1991 and 
+
+
+															3. Python
+															   ------
+# DOB of python 20 feb 1991.
+#python is a general purpose language.
+(here general purpose language means by using this language we can made approximatly all kind of application like stand_alone, web_based, ai, networking application and so..)
+
+#Python is a high level language.
+(here high level language means it is user or human understandable language use english word and like normal english language another side low language refer to the assemble type of lanuage which is not understandable to the common people and very comlex to read and to understand).
+
+#PYTHON is a combination or all type of that language:-
+(python is a object oriented language and was derived from cpp language.
+python is functinonal language and was derived form c language.
+python is modular language and was derived from module-3.
+python is a scripting language and was derived from lisp language.)
+
+#python is a dynamicly typed language.
+(here dynamically type refer to the declearation of variable in which we do not have to pay attention on the type of variable python automatically take type of variable and type casting is very easy in python language
+For Example:- 
+			 
+			 >>>a=12;			# By this type we can assign the variable and can initialize the variable
+			 >>>a
+			 12					# answer and it is automatically intiger type
+			 >>>a=true			# we can also type cast int to bool but in java or c type language we can not assign
+			 >>>a
+			 Bool
+			 >>> type(a)		# by usin it we can also cheak the type of variable
+			 <class 'int'>
+			 >>>
+) 
+
+#python reduce the line of code which action we can perform let in another language in 100's of line in python we can do it in few line of code like 20 to 25 lines of code.
+(
+Example of printing only one statement:-
+									
+															java
+															----
+
+public class Demo{
+	Public static void main(String args[]){
+	System.out.print("hello i am java a powerfull language");
+	}
+}
+
+															C_Lang
+															------
+
+#include<stdio.h>
+void main(){
+	printf("hello i am c mother of all language according to the programmer");
+}															
+
+
+
+															C++ Lang
+															--------
+
+#include<iostream.h>
+using namespace std;
+int main(){
+	cout<<"hello i am cpp one of the most populer lang in the world";
+}
+
+
+															python
+															------
+
+
+>>>print("hello i am python one the top most language and choise of every 1 in 2 people")														
+##here the python take very consise code very much less line's of code. )

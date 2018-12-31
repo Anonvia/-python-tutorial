@@ -1,0 +1,64 @@
+											
+											flavors of python
+											-----------------
+
+1.  Cpython 
+2.  jpython / jython
+3.  pypy 
+4.  Rubypython 
+5.  Ironpython 
+6.  Stackless(for concurrency) 
+7.  Anacondapython 
+
+
+=============================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=============================================================================================================
+
+											identifiers
+											-----------
+															
+
+like other language python is also CaseSensetive. it take 'a' and 'A' both in different manner for identifie.
+identifier is a name which are used to identifie Name like Variable_Name, Function_Name, Class_Name.
+python also give some rules to define the name of identifiers.
+1.  We can use symbols's (UpperCase % Lower case).
+2.  We can also use the numbers(0 to 9).
+3.  We can also use '_' underscore for indentifie the identifier.
+4.  We can use the name as like First alphabate + Second numbers (abc123) etc.
+==========================================================================================================
+But there some limitation for identifier.
+1. we can not use the other symbols like ($,| <, ?) etc.
+2. we can not use first number + second alphabate (123abc) ,so compiler will give the error message.
+
+
+
+for example=> 
+				 
+				>>>def f1():				
+				>>>print("hello")																		
+				>>>
+				>>>f1()				#Name of function 
+				hello				#printing the Statement 
+				>>>>a=10			# Name of variable
+
+ for example of valid or in valid identifier's
+
+ 1.  >>> a=12						# Valid
+ 2.  >>> A =12						# Valid
+ 3.  >>> A12=234					# Valid
+ 4.  >>> a23=1231					# Valid
+ 5.  >>> abc123abc=134				# Valid
+ 6.  >>> 123abc123=14				# invalid
+ 7.  >>> 123abc=13					# invalid
+ 8.  >>> 123ABC=123					# invalid
+ 
+
+important thing is that we can use very big very big name of identifier as Name 
+for Example:- 
+				
+
+				>>> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=12      # Valid
+
+
+				in python it is also valid we can assign how much big name we want to put but it is called bed programming skill
