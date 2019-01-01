@@ -1,9 +1,9 @@
-															python first lacture
-															--------------------
+							python first lacture
+							--------------------
 
 								
-															1.  Installation 
-																------------
+							1.  Installation tips 
+							    ------------
 
 
 There are some tips for python installation.
@@ -28,15 +28,15 @@ python provide us 	REPL(Read Evoluate print loop)
 >>>
 
 
-															2. History_Of_Python
-															   -----------------
+							2. History_Of_Python
+							-----------------
 
 python was developed by Gudo Van Rossum in 1989. and he developed at NRI(national research institute) at nitherland
 python was origionaly came or was open source in the year of 1991 and 
 
 
-															3. Python
-															   ------
+							3.About Python
+							 -------------
 # DOB of python 20 feb 1991.
 #python is a general purpose language.
 (here general purpose language means by using this language we can made approximatly all kind of application like stand_alone, web_based, ai, networking application and so..)
@@ -69,8 +69,8 @@ For Example:-
 (
 Example of printing only one statement:-
 									
-															java
-															----
+								java
+								----
 
 public class Demo{
 	Public static void main(String args[]){
@@ -78,8 +78,8 @@ public class Demo{
 	}
 }
 
-															C_Lang
-															------
+								C_Lang
+								------
 
 #include<stdio.h>
 void main(){
@@ -88,8 +88,8 @@ void main(){
 
 
 
-															C++ Lang
-															--------
+								C++ Lang
+								--------
 
 #include<iostream.h>
 using namespace std;
@@ -98,8 +98,8 @@ int main(){
 }
 
 
-															python
-															------
+								python
+							        ------
 
 
 >>>print("hello i am python one the top most language and choise of every 1 in 2 people")														
